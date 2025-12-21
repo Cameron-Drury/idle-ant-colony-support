@@ -26,6 +26,7 @@ For general questions or feedback, [start a discussion](../../issues/new?templat
 ## Links
 
 - [Download on the App Store](#) *(Coming Soon)*
+- [Copyright & Terms of Use](COPYRIGHT.md)
 
 ---
 
